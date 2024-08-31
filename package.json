@@ -1,0 +1,18 @@
+{
+  "name": "simple-nodejs-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
